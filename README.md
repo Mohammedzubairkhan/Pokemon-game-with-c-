@@ -1,3 +1,4 @@
+It is pokemon game built using C++
 # Pokemon-game-with-c-
 codeblocks compiler settings
 -lglu32 -lopengl32 -lSOIL -lfreeglut  -lfreeglut_static
